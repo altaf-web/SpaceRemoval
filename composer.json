@@ -1,7 +1,7 @@
 {
-    "name": "altaf-web/SpaceRemoval",
+    "name": "altaf-web/space-removal",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "This package will remove the space between the string",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
